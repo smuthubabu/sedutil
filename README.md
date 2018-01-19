@@ -31,9 +31,9 @@ or changing the contents of /sys/module/libata/parameters/allow_tpm from a "0" t
 
 ***** sleep (S3) is not supported.
 
-Source code is available on GitHub at https://github.com/Drive-Trust-Alliance/sedutil 
+Source code is available on GitHub at https://github.com/smuthubabu/sedutil 
 
-Linux and Windows executables are available at https://github.com/Drive-Trust-Alliance/sedutil/wiki/Executable-Distributions
+Linux and Windows executables are available at https://github.com/smuthubabu/sedutil/wiki/Executable-Distributions
 
 If you are looking for the PSID revert function see linux/PSIDRevert_LINUX.txt or win32/PSIDRevert_WINDOWS.txt
 
